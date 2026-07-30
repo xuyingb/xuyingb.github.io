@@ -1,3 +1,4 @@
+/* 基于 https://zexwoo.blog/posts/knowledge/gazelle/ 文章中提到的css文件，针对jpopsuki进行特化修改 */
 /* Layout (Torrents page) */
 
 /* We're going to opt for the category icon method for now, tags_* is also available */
@@ -58,7 +59,7 @@ body {
   width: 100%;
   background-color: #deca92;
   font-family: tahoma, helvetica, sans-serif;
-  font-size: 8pt;
+  font-size: 12pt;
   color: #000;
   min-width: 850px;
 }
@@ -90,7 +91,7 @@ h2 {
 }
 
 h4 {
-  font-size: 8pt;
+  font-size: 12pt;
 }
 
 p {
@@ -104,7 +105,7 @@ li {
 input {
   padding: 2px 3px;
   font-family: tahoma;
-  font-size: 8pt;
+  font-size: 12pt;
   border-top: 1px solid #c1c1c1;
   border-left: 1px solid #c1c1c1;
   border-right: 1px solid #d1d1d1;
@@ -114,7 +115,7 @@ input {
 input:submit {
   padding: 2px 3px;
   font-family: tahoma;
-  font-size: 8pt;
+  font-size: 12pt;
   border: 1px solid #ff0000;
 }
 
@@ -128,7 +129,7 @@ input:hover {
 textarea {
   padding: 2px 3px;
   font-family: tahoma;
-  font-size: 8pt;
+  font-size: 12pt;
   border-top: 1px solid #c1c1c1;
   border-left: 1px solid #c1c1c1;
   border-right: 1px solid #d1d1d1;
@@ -144,7 +145,7 @@ textarea:hover {
 
 select {
   font-family: tahoma;
-  font-size: 8pt;
+  font-size: 12pt;
   border-top: 1px solid #c1c1c1;
   border-left: 1px solid #c1c1c1;
   border-right: 1px solid #d1d1d1;
@@ -282,7 +283,7 @@ ul.thin li {
   padding: 4px 0px;
   width: 100%;
   text-align: center;
-  font-size: 8pt;
+  font-size: 12pt;
 }
 
 #userinfo img {
@@ -469,14 +470,14 @@ p.min_padding {
 }
 
 .box {
-  font-size: 8pt;
+  font-size: 12pt;
   background-color: #eaeaea;
   border: 1px solid #666666;
   margin-bottom: 10px;
 }
 
 .box2 {
-  font-size: 8pt;
+  font-size: 12pt;
   background-color: #eaeaea;
   border: 1px solid #666666;
   margin-bottom: 10px;
